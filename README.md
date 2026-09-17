@@ -71,8 +71,7 @@ Setup and execution instructions will be added when the initial project files an
 **Dr Tanveer Iqbal**  
 PhD Chemical Engineer | AI Evaluation and STEM Data Specialist | Applied ML
 
-- LinkedIn: *Add profile URL*
-- GitHub: *Add profile URL*
+
 
 ## Acknowledgement
 
